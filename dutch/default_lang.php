@@ -112,7 +112,7 @@ $lang["delete_team_member"] = "Teamlid verwijderen";
 $lang["team_member"] = "Teamlid";
 $lang["team_members"] = "Teamleden";
 $lang["active_members"] = "Active medewerkers";
-$lang["inactive_members"] = "Inactive medewerkers";
+$lang["inactive_members"] = "Inactieve medewerkers";
 $lang["first_name"] = "Voornaam";
 $lang["last_name"] = "Achternaam";
 $lang["mailing_address"] = "Mailingadres";
@@ -123,7 +123,7 @@ $lang["gender"] = "Geslacht";
 $lang["male"] = "Man";
 $lang["female"] = "Vrouw";
 $lang["date_of_birth"] = "Geboortedatum";
-$lang["date_of_hire"] = "Datum indienst";
+$lang["date_of_hire"] = "Datum in dienst";
 $lang["ssn"] = "BSN";
 $lang["salary"] = "Salaris";
 $lang["salary_term"] = "salaris termijn";
@@ -262,7 +262,7 @@ $lang["updates"] = "Updates";
 $lang["current_version"] = "Huidige versie";
 $lang["language"] = "Taal";
 $lang["ip_restriction"] = "IP Restricties";
-$lang["varification_failed_message"] = "Sorry, we konden niet je aankoopcode te controleren.";
+$lang["varification_failed_message"] = "Sorry, we konden je aankoopcode niet controleren.";
 $lang["enter_one_ip_per_line"] = "Enter one IP per line. Keep it blank to allow all IPs. *Admin users will not be affected.";
 $lang["allow_timecard_access_from_these_ips_only"] = "Allow timecard access from these IPs only.";
 $lang["decimal_separator"] = "Decimal Separator";
@@ -333,7 +333,7 @@ $lang["mark_as_inactive_help_message"] = "De inactieve gebruikers zullen niet in
 
 $lang["invoice_id"] = "Factuur ID";
 $lang["payments"] = "Betalingen";
-$lang["invoice_sent_message"] = "The invoice has been sent!";
+$lang["invoice_sent_message"] = "Factuur is verzonden!";
 $lang["attached"] = "Bijlage";
 $lang["vat_number"] = "BTW-nummer";
 $lang["invite_an_user"] = "Nodig een gebruiker uit voor %s"; // Invite an user for {company name}
@@ -392,7 +392,7 @@ $lang["sticky_note"] = "Sticky Note (Privé)";
 $lang["history"] = "Geschiedenis";
 
 /* timesheet */
-$lang["timesheets"] = "Roosters";
+$lang["timesheets"] = "Tijdkaart";
 $lang["log_time"] = "Tijdlog tijd";
 $lang["edit_timelog"] = "Tijdlog wijzigen";
 $lang["delete_timelog"] = "Tijdlog verwijderen";
@@ -407,7 +407,7 @@ $lang["milestones"] = "Milestones";
 
 /* files */
 $lang["add_files"] = "Bestand toevoegen";
-$lang["edit_file"] = "Bestand wijzigigenen";
+$lang["edit_file"] = "Bestand wijzigen";
 $lang["delete_file"] = "Bestand verwijderen";
 $lang["file"] = "Bestand";
 $lang["files"] = "Bestanden";
@@ -487,10 +487,10 @@ $lang["delete_ticket_type"] = "Tickettype verwijderen";
 /* payment methods */
 
 $lang["add_payment_method"] = "Betaalmethode toevoegen";
-$lang["payment_method"] = "Betaaldmethode";
-$lang["payment_methods"] = "Betaaldmethodes";
-$lang["edit_payment_method"] = "Betaaldmethode wijzgigen";
-$lang["delete_payment_method"] = "Betaaldmethode verwijderen";
+$lang["payment_method"] = "Betaalmethode";
+$lang["payment_methods"] = "Betaalmethodes";
+$lang["edit_payment_method"] = "Betaalmethode wijzgigen";
+$lang["delete_payment_method"] = "Betaalmethode verwijderen";
 
 /* invoices */
 
@@ -1094,7 +1094,7 @@ $lang["checklist"] = "Checklist";
 $lang["delete_checklist_item"] = "Verwijder checklist item";
 
 $lang["save_and_show"] = "Bewaar & Toon";
-$lang["total_leave_yearly"] = "Totaal vertrek (jaarlijks)";
+$lang["total_leave_yearly"] = "Totaal afwezigheid (jaarlijks)";
 
 $lang["new_conversation"] = "Nieuwe conversatie";
 
@@ -1145,10 +1145,10 @@ $lang["content"] = "Content";
 $lang["clock_in_out"] = "Clock in-out";
 $lang["custom_widget_details"] = "Custom widget details";
 
-$lang["total_projects"] = "Total projects";
-$lang["total_invoices"] = "Total invoices";
-$lang["total_payments"] = "Total payments";
-$lang["total_due"] = "Total due";
+$lang["total_projects"] = "Totaal projects";
+$lang["total_invoices"] = "Totaal factuur";
+$lang["total_payments"] = "Totaal betalingen";
+$lang["total_due"] = "Totaal te ontvangen";
 
 $lang["show_title"] = "Show title";
 $lang["show_border"] = "Show border";
@@ -1186,7 +1186,7 @@ $lang["personal_language"] = "Personal language";
 $lang["no_messages_text"] = "You don't have any messages yet";
 $lang["no_users_found"] = "No users found";
 
-$lang["create_project"] = "Create project";
+$lang["create_project"] = "Maak een project aan";
 
 /* Version 2.2 */
 
@@ -1217,7 +1217,7 @@ $lang["favorite_clients"] = "Favorite clients";
 $lang["dashboard_customization"] = "Dashboard customization";
 $lang["quick_add"] = "Quick add";
 
-$lang["assign_to_me"] = "Assign to me";
+$lang["assign_to_me"] = "Toewijzen aan mij";
 
 $lang["favicon"] = "Favicon";
 
@@ -1260,19 +1260,19 @@ $lang["enable_push_notification"] = "Enable push notification";
 $lang["push_notification"] = "Push notification";
 $lang["disable_push_notification"] = "Disable push notification";
 
-$lang["unknown_client"] = "Unknown client";
+$lang["unknown_client"] = "Onbekende client";
 
 $lang["income_expenses_widget_help_message"] = "This report is only usable if you are using single currency.";
 
 $lang["assign_myself_in_this_ticket"] = "Assign myself in this ticket";
 
-$lang["create_new_task"] = "Create new task";
+$lang["create_new_task"] = "Maak een nieuwe taak aan";
 
 $lang["default_due_date_after_billing_date"] = "Default due date after billing date";
 
 $lang["field_type_external_link"] = "External link";
 
-$lang["total_days"] = "Total days";
+$lang["total_days"] = "Totaal aantal dagen";
 
 $lang["my_timesheet"] = "My timesheet";
 $lang["all_timesheets"] = "All timesheets";
@@ -1287,7 +1287,7 @@ $lang["imap_error_credentials_message"] = "Error! Can't connect with the imap us
 
 $lang["client_message_own_contacts"] = "Client can send/receive message to/from own contacts?";
 
-$lang["print_invoice"] = "Print invoice";
+$lang["print_invoice"] = "Print factuur";
 
 $lang["mark_invoice_as_cancelled"] = "Mark as cancelled";
 $lang["cancelled"] = "Cancelled";
@@ -1299,10 +1299,10 @@ $lang["cancelled_by"] = "Cancelled by";
 $lang["test_push_notification"] = "Test push notification";
 $lang["notification_test_push_notification"] = "It's a demo push notification";
 $lang["push_notification_error_message"] = "Error! Can't connect with the Pusher using the credentials.";
-$lang["clone_estimate"] = "Clone Estimate";
+$lang["clone_estimate"] = "Schatting kopieëren";
 
-$lang["import_clients"] = "Import clients";
-$lang["download_sample_file"] = "Download sample file";
+$lang["import_clients"] = "Clienten importeren";
+$lang["download_sample_file"] = "Download een voorbeeld bestand";
 
 $lang["estimate_settings"] = "Estimate Settings";
 $lang["estimate_logo"] = "Estimate Logo";
@@ -1310,9 +1310,9 @@ $lang["estimate_color"] = "Estimate Color";
 $lang["initial_number_of_the_estimate"] = "Initial number of the estimate";
 $lang["the_estimates_id_must_be_larger_then_last_estimate_id"] = "The estimates ID must be larger then last estimate ID.";
 
-$lang["send_to_client"] = "Send to client";
-$lang["estimate_sent_message"] = "The estimate has been sent!";
-$lang["send_estimate_bcc_to"] = "When sending estimate to client, send BCC to";
+$lang["send_to_client"] = "Verstuur naar client";
+$lang["estimate_sent_message"] = "De schatting is verzonden";
+$lang["send_estimate_bcc_to"] = "Bij verzenden van een schatting, stuur BCC naar:";
         
 $lang["task_settings"] = "Task settings";
 $lang["enable_recurring_option_for_tasks"] = "Enable recurring option for tasks";
@@ -1339,13 +1339,13 @@ $lang["merge_custom_fields"] = "Merge custom fields";
 $lang["do_not_merge"] = "Do not merge";
 $lang["merge_custom_fields_help_message"] = "If there is any similar custom fields exists for %s, this values will be added to those. Otherwise, this will create new custom fields for %s and add values to those.";
 $lang["lead_created"] = "Lead created";
-$lang["notification_lead_created"] = "Created a new lead.";
-$lang["client_created_from_lead"] = "Client created from lead";
-$lang["notification_client_created_from_lead"] = "Converted a lead to client.";
+$lang["notification_lead_created"] = "Nieuwe lead aangemaakt";
+$lang["client_created_from_lead"] = "Client aangemaakt van lead";
+$lang["notification_client_created_from_lead"] = "Client aangemaakt";
 $lang["project_deadline"] = "Project deadline";
-$lang["task_deadline"] = "Task deadline";
+$lang["task_deadline"] = "Taak Deadline";
 $lang["event_type"] = "Event type";
-$lang["delete_estimate_form"] = "Delete estimate form";
+$lang["delete_estimate_form"] = "Verwijder deze schatting";
 $lang["calendar_event_modified"] = "Calendar event modified";
 $lang["notification_calendar_event_modified"] = "Modified an event.";
 
@@ -1356,17 +1356,17 @@ $lang["last_status"] = "Last status";
 $lang["migrated_to_client_at"] = "Migrated to client at";
 $lang["edit_estimate_form"] = "Edit estimate form";
 
-$lang["please_upload_a_excel_file"] = "Please upload a excel file.";
-$lang["back"] = "Back";
+$lang["please_upload_a_excel_file"] = "Upload een Excel bestand";
+$lang["back"] = "Terug";
 
 $lang["import_client_error_header"] = "There has an invalid header. The indicated field should be <b>%s</b>.";
 $lang["import_client_error_company_name_field_required"] = "Company name field is required.";
 $lang["import_client_error_contact_name"] = "Contact first name and last is both required to add a client contact.";
 $lang["import_client_error_contact_email"] = "Contact email is required and should be unique to add a client contact.";
 $lang["error"] = "Error";
-$lang["contact_first_name"] = "Contact first name";
-$lang["contact_last_name"] = "Contact last name";
-$lang["contact_email"] = "Contact email";
+$lang["contact_first_name"] = "Voornaam van Contact";
+$lang["contact_last_name"] = "Achternaam van Contact";
+$lang["contact_email"] = "Emailadres van Contact";
 
 $lang["clone_invoice"] = "Clone Invoice";
 $lang["copy_items"] = "Copy items";
